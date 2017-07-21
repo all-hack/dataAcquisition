@@ -9,10 +9,9 @@ from subprocess import call, check_output
 pp = pprint.PrettyPrinter(indent=4)
 
 
-page = 1
+dir_name = "company_triage"
 
 for page in range(1, 10):
-    dir_name = "pages"
     dir_path = check_output("pwd")[:-1]
     acquire_company_ids_command = "sh {0} {1}".format(str(dir_path+"/"), page)
 

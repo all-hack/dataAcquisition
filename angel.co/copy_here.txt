@@ -1,0 +1,39 @@
+Particle, https://angel.co/particle, https://www.particle.io, founder not found
+BuildingConnected, https://angel.co/buildingconnected, http://www.buildingconnected.com, founder not found
+Boomtown, https://angel.co/boomtown, http://www.goboomtown.com, founder not found
+Chewse, https://angel.co/chewse, https://www.chewse.com/, founder not found
+Euclid Analytics, https://angel.co/euclid, http://euclidanalytics.com, founder not found
+ShareThis, https://angel.co/sharethis, http://sharethis.com, founder not found
+Sharethrough, https://angel.co/sharethrough, http://www.sharethrough.com, founder not found
+Upserve, https://angel.co/upserve, https://upserve.com/, founder not found
+Tapjoy, https://angel.co/tapjoy, http://www.tapjoy.com, founder not found
+Mavenlink, https://angel.co/mavenlink, http://www.mavenlink.com, founder not found
+mLab, https://angel.co/mongolab, https://mlab.com, founder not found
+LeadGenius, https://angel.co/leadgenius, https://leadgenius.com, founder not found
+UXPin, https://angel.co/uxpin, http://www.uxpin.com, founder not found
+Her, https://angel.co/her-1, http://www.weareher.com, founder not found
+Womply, https://angel.co/womply, https://womply.com/, founder not found
+Soldsie, https://angel.co/soldsie, http://soldsie.com, founder not found
+Bloc, https://angel.co/bloc, https://www.bloc.io, founder not found
+HomeLight, https://angel.co/homelight, http://www.homelight.com, founder not found
+CircleCI, https://angel.co/circleci, https://circleci.com, founder not found
+MindSumo, https://angel.co/mindsumo, http://www.mindsumo.com, founder not found
+BetterCompany, https://angel.co/bettercompany, http://www.bettercompany.co, founder not found
+Plivo, https://angel.co/plivo, http://www.plivo.com, founder not found
+WePay, https://angel.co/wepay, http://www.wepay.com, founder not found
+Kiip, https://angel.co/kiip, http://www.kiip.me, founder not found
+Thunder, https://angel.co/thunder, http://makethunder.com/, founder not found
+Axcient, https://angel.co/axcient, http://www.axcient.com, founder not found
+Fitbit, https://angel.co/fitbit, http://www.fitbit.com, founder not found
+BitTorrent, https://angel.co/bittorrent, http://www.bittorrent.com/, founder not found
+Minted, https://angel.co/minted, http://www.minted.com, founder not found
+Sift Science, https://angel.co/sift-science, http://siftscience.com, founder not found
+Thanx, https://angel.co/thanx, http://www.thanx.com, founder not found
+lark, https://angel.co/lark-3, http://lark.com/?referer=angellist, founder not found
+Plaid, https://angel.co/plaid, https://plaid.com, founder not found
+Glooko, https://angel.co/glooko, http://www.glooko.com, founder not found
+Science Exchange, https://angel.co/science-exchange, http://scienceexchange.com, founder not found
+Mattermark, https://angel.co/mattermark, http://www.mattermark.com, founder not found
+Rocksbox, https://angel.co/rocksbox, http://www.rocksbox.com, founder not found
+Swiftype, https://angel.co/swiftype, http://swiftype.com, founder not found
+tray.io, https://angel.co/tray-io, http://tray.io, founder not found
