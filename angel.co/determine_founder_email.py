@@ -86,9 +86,7 @@ import_lines = import_string.split("\n")
 
 for i, line in enumerate(import_lines[:-1]):
     if line == import_lines[0] or line == import_lines[1]:
-        continue
-    if i < :
-        break
+        continue    
 
     company = json.loads(line)
     toaddrs = ""
@@ -104,7 +102,12 @@ for i, line in enumerate(import_lines[:-1]):
     user = company['founder'].split(" ")[0].lower()    
     user_list.append("{0}@{1}".format(user, domain))    
     
-    print "sending email[{0}]: {1}", i, user_list[-1]
+    if i <= 171:
+        "sending email[171]: jin@originalstitch.com"
+        print "already sent email[{0}]: {1}".format(i, user_list[-1])
+        continue
+
+    print "sending email[{0}]: {1}".format(i, user_list[-1])
     Subj = "holiday property"
     msg = "Hello\n\nwww.Self-catering-breaks.com is now becoming one of the largest sites on the internet\n\nfor people who wish to list their own properties\n\nWe already have 1000's of properties listed but want to make sure you already have\n\nlisted your properties.\n\nSo please feel free to add your property or properties.\n\nFirstly register and you will be emailed an authorisation key.\n\nThanks for your time and please pass this email onto anyone you think may be\n\ninterested to list for free."
     MESSAGE_FORMAT = "From: %s\r\nTo: %s\r\nSubject: %s\r\n\r\n%s" %(FROM_EMAIL, user_list[-1],Subj,msg)
@@ -112,7 +115,7 @@ for i, line in enumerate(import_lines[:-1]):
     server.starttls()
     server.login(FROM_EMAIL,FROM_PWD)
     # print user_list
-    # server.sendmail(FROM_EMAIL, user_list[-1], MESSAGE_FORMAT)
+    server.sendmail(FROM_EMAIL, user_list[-1], MESSAGE_FORMAT)
     server.quit()
 
     # time.sleep(30)
