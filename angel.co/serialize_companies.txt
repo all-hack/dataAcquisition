@@ -1,0 +1,244 @@
+{"profile": "https://angel.co/zenprospect", "website": "http://www.zenprospect.com", "name": "ZenProspect", "founder": "Roy Chung"}
+{"profile": "https://angel.co/safegraph", "website": "http://www.safegraph.com", "name": "SafeGraph", "founder": "Auren Hoffman"}
+{"profile": "https://angel.co/betterviewmarketplace", "website": "https://www.better.vu", "name": "BetterView", "founder": "David Lyman"}
+{"profile": "https://angel.co/withstarling", "website": "http://withstarling.com", "name": "Starling", "founder": "Tuhin Srivastava"}
+{"profile": "https://angel.co/luminostics", "website": "http://www.luminostics.com", "name": "Luminostics", "founder": "founder not found"}
+{"profile": "https://angel.co/triplebyte", "website": "https://triplebyte.com", "name": "Triplebyte", "founder": "Harj Taggar"}
+{"profile": "https://angel.co/joinhouseparty", "website": "http://joinhouse.party", "name": "Houseparty (Life on Air)", "founder": "Ben Rubin"}
+{"profile": "https://angel.co/talentiq", "website": "http://www.talentiq.co/", "name": "TalentIQ", "founder": "founder not found"}
+{"profile": "https://angel.co/honor", "website": "https://www.joinhonor.com", "name": "Honor", "founder": "Cameron Ring"}
+{"profile": "https://angel.co/patch-homes", "website": "https://www.patchhomes.com", "name": "Patch Homes", "founder": "founder not found"}
+{"profile": "https://angel.co/giftrocket", "website": "https://www.giftrocket.com", "name": "GiftRocket", "founder": "Jonathan Pines"}
+{"profile": "https://angel.co/brave", "website": "https://brave.com/", "name": "Brave", "founder": "founder not found"}
+{"profile": "https://angel.co/the-hustle-1", "website": "http://thehustle.co", "name": "The Hustle", "founder": "John Havel"}
+{"profile": "https://angel.co/periscope", "website": "http://periscopedata.com", "name": "Periscope Data", "founder": "founder not found"}
+{"profile": "https://angel.co/semantics3", "website": "https://www.semantics3.com/", "name": "Semantics3", "founder": "founder not found"}
+{"profile": "https://angel.co/zesty-1", "website": "http://zesty.com", "name": "Zesty", "founder": "founder not found"}
+{"profile": "https://angel.co/kahuna", "website": "http://www.Kahuna.com", "name": "Kahuna", "founder": "Adam Marchick"}
+{"profile": "https://angel.co/backops-2", "website": "http://www.hireathena.com", "name": "HireAthena", "founder": "Mark H Goldstein"}
+{"profile": "https://angel.co/scorebeyond", "website": "http://scorebeyond.com/", "name": "ScoreBeyond", "founder": "Alp Artar"}
+{"profile": "https://angel.co/diyco", "website": "http://www.diy.org", "name": "DIY", "founder": "Zach Klein"}
+{"profile": "https://angel.co/pubnub", "website": "http://www.pubnub.com", "name": "PubNub", "founder": "Stephen Blum"}
+{"profile": "https://angel.co/adroll", "website": "http://adroll.com", "name": "AdRoll", "founder": "Jared Kopf"}
+{"profile": "https://angel.co/hoteltonight", "website": "http://www.hoteltonight.com", "name": "HotelTonight", "founder": "Sam Shank"}
+{"profile": "https://angel.co/euclid", "website": "http://euclidanalytics.com", "name": "Euclid Analytics", "founder": "William Smith"}
+{"profile": "https://angel.co/younoodle", "website": "http://www.younoodle.com", "name": "YouNoodle", "founder": "Rebeca Hwang"}
+{"profile": "https://angel.co/jiff", "website": "http://www.jiff.com", "name": "Jiff", "founder": "Himgan Wibisono"}
+{"profile": "https://angel.co/addepar", "website": "http://www.addepar.com", "name": "Addepar", "founder": "founder not found"}
+{"profile": "https://angel.co/piazza", "website": "http://www.piazza.com", "name": "Piazza", "founder": "Pooja Sankar"}
+{"profile": "https://angel.co/mavenlink", "website": "http://www.mavenlink.com", "name": "Mavenlink", "founder": "Roger Neel"}
+{"profile": "https://angel.co/unity-technologies", "website": "http://unity3d.com", "name": "Unity Technologies", "founder": "David Helgason"}
+{"profile": "https://angel.co/tellapart", "website": "http://www.tellapart.com", "name": "TellApart", "founder": "Mark Ayzenshtat"}
+{"profile": "https://angel.co/pocket-gems", "website": "http://www.pocketgems.com", "name": "Pocket Gems", "founder": "Harlan Crystal"}
+{"profile": "https://angel.co/insightengines", "website": "http://insight-engines.com", "name": "Insight Engines", "founder": "Grant Wernick"}
+{"profile": "https://angel.co/prism-skylabs", "website": "https://www.prism.com", "name": "Prism Skylabs", "founder": "Doug Johnston"}
+{"profile": "https://angel.co/couchsurfing", "website": "http://www.couchsurfing.com/", "name": "Couchsurfing International", "founder": "Daniel Hoffer"}
+{"profile": "https://angel.co/striiv", "website": "http://www.striiv.com/", "name": "Striiv", "founder": "Mark Ross"}
+{"profile": "https://angel.co/mongolab", "website": "https://mlab.com", "name": "mLab", "founder": "Jared D. Cottrell"}
+{"profile": "https://angel.co/science-exchange", "website": "http://scienceexchange.com", "name": "Science Exchange", "founder": "Dan Knox"}
+{"profile": "https://angel.co/thanx", "website": "http://www.thanx.com", "name": "Thanx", "founder": "Zachary Goldstein"}
+{"profile": "https://angel.co/leadgenius", "website": "https://leadgenius.com", "name": "LeadGenius", "founder": "Anand Kulkarni"}
+{"profile": "https://angel.co/brit-co-2", "website": "http://www.brit.co", "name": "Brit + Co", "founder": "Brit Morin"}
+{"profile": "https://angel.co/lark-3", "website": "http://lark.com/?referer=angellist", "name": "lark", "founder": "Jeff Zira"}
+{"profile": "https://angel.co/scanadu", "website": "http://www.scanadu.com", "name": "Scanadu", "founder": "Walter De Brouwer"}
+{"profile": "https://angel.co/plaid", "website": "https://plaid.com", "name": "Plaid", "founder": "William Hockey"}
+{"profile": "https://angel.co/glooko", "website": "http://www.glooko.com", "name": "Glooko", "founder": "Sundeep Madra"}
+{"profile": "https://angel.co/betterdoctor", "website": "https://BetterDoctor.com", "name": "BetterDoctor", "founder": "Ari Tulla"}
+{"profile": "https://angel.co/glide", "website": "http://glide.me", "name": "Glide", "founder": "Ari Roisman"}
+{"profile": "https://angel.co/le-tote", "website": "http://www.letote.com", "name": "Le Tote", "founder": "Brett Northart"}
+{"profile": "https://angel.co/boomerang-baydin", "website": "http://boomerangapp.com", "name": "Boomerang (Baydin)", "founder": "Alex Moore"}
+{"profile": "https://angel.co/coverhound", "website": "https://coverhound.com", "name": "CoverHound", "founder": "Basil Enan"}
+{"profile": "https://angel.co/captricity", "website": "http://captricity.com", "name": "Captricity", "founder": "Jeff J. Lin"}
+{"profile": "https://angel.co/trusted-insight", "website": "http://thetrustedinsight.com", "name": "Trusted Insight", "founder": "Alex Bangash"}
+{"profile": "https://angel.co/disqus", "website": "http://disqus.com", "name": "Disqus", "founder": "Jason Yan"}
+{"profile": "https://angel.co/open-garden", "website": "http://www.opengarden.com", "name": "Open Garden", "founder": "Micha Benoliel"}
+{"profile": "https://angel.co/getaround", "website": "http://www.getaround.com", "name": "Getaround", "founder": "Sam Zaid"}
+{"profile": "https://angel.co/pantheon", "website": "http://pantheon.io", "name": "Pantheon", "founder": "Matt Cheney"}
+{"profile": "https://angel.co/elevate-3", "website": "http://www.elevateapp.com", "name": "Elevate", "founder": "Jesse Pickard"}
+{"profile": "https://angel.co/betterworks", "website": "http://www.betterworks.com", "name": "BetterWorks", "founder": "Di Wu"}
+{"profile": "https://angel.co/vastrm", "website": "http://www.vastrm.com", "name": "Vastrm", "founder": "Jonathan Tang"}
+{"profile": "https://angel.co/drchrono", "website": "https://www.drchrono.com", "name": "drchrono", "founder": "Michael Nusimow"}
+{"profile": "https://angel.co/creative-market", "website": "https://creativemarket.com", "name": "Creative Market", "founder": "founder not found"}
+{"profile": "https://angel.co/zipongo", "website": "http://www.zipongo.com", "name": "Zipongo", "founder": "Jason Langheier"}
+{"profile": "https://angel.co/brilliant", "website": "https://brilliant.org/", "name": "Brilliant", "founder": "Sue Khim"}
+{"profile": "https://angel.co/yesware", "website": "http://www.yesware.com", "name": "Yesware", "founder": "Rajat Bhargava"}
+{"profile": "https://angel.co/quartzy", "website": "http://www.quartzy.com", "name": "Quartzy", "founder": "founder not found"}
+{"profile": "https://angel.co/gobbler", "website": "http://www.gobbler.com", "name": "Gobbler", "founder": "Jamie Kantrowitz"}
+{"profile": "https://angel.co/simpleprints", "website": "http://www.getsimpleprints.com", "name": "SimplePrints", "founder": "Matt Sullivan"}
+{"profile": "https://angel.co/symphony-2", "website": "http://www.symphonytools.com", "name": "Symphony", "founder": "founder not found"}
+{"profile": "https://angel.co/visually", "website": "http://visual.ly", "name": "Visually", "founder": "Stew Langille"}
+{"profile": "https://angel.co/eat-club", "website": "http://www.myeatclub.com/", "name": "EAT Club", "founder": "Kevin Yang"}
+{"profile": "https://angel.co/academia-edu", "website": "http://academia.edu", "name": "Academia", "founder": "Richard Price"}
+{"profile": "https://angel.co/manifesthq", "website": "http://www.manifestcommerce.com/", "name": "Manifest", "founder": "Bob Buch"}
+{"profile": "https://angel.co/afterschool", "website": "http://afterschoolapp.com", "name": "After School", "founder": "Cory Levy"}
+{"profile": "https://angel.co/yourmechanic", "website": "https://www.YourMechanic.com", "name": "YourMechanic", "founder": "Dongyi Liao"}
+{"profile": "https://angel.co/chartio", "website": "http://chartio.com", "name": "Chartio", "founder": "Dave Fowler"}
+{"profile": "https://angel.co/xola", "website": "http://www.xola.com", "name": "Xola", "founder": "founder not found"}
+{"profile": "https://angel.co/sunshine", "website": "http://thesunshine.co", "name": "Sunshine", "founder": "Yiannis Varelas"}
+{"profile": "https://angel.co/stream-labs", "website": "http://www.streamlabs.com", "name": "Streamlabs", "founder": "Ali Moiz"}
+{"profile": "https://angel.co/red-tricycle", "website": "http://www.redtri.com", "name": "Red Tricycle", "founder": "Craig Zingerline"}
+{"profile": "https://angel.co/signifyd", "website": "http://www.signifyd.com", "name": "SIGNIFYD", "founder": "Ohad Samet"}
+{"profile": "https://angel.co/leap-motion", "website": "http://www.leapmotion.com", "name": "Leap Motion", "founder": "Michael Buckwald"}
+{"profile": "https://angel.co/angellist", "website": "http://angel.co", "name": "AngelList", "founder": "Naval Ravikant"}
+{"profile": "https://angel.co/upout", "website": "http://www.upout.com", "name": "UpOut", "founder": "William King"}
+{"profile": "https://angel.co/vungle", "website": "http://www.vungle.com", "name": "Vungle", "founder": "Jack Smith"}
+{"profile": "https://angel.co/aktana", "website": "http://aktana.com/", "name": "Aktana", "founder": "Kai Stinchcombe"}
+{"profile": "https://angel.co/base-crm", "website": "http://www.getbase.com", "name": "Base CRM", "founder": "Pawel Niznik"}
+{"profile": "https://angel.co/chewse", "website": "https://www.chewse.com/", "name": "Chewse", "founder": "founder not found"}
+{"profile": "https://angel.co/zanbato-1", "website": "https://www.zanbato.com", "name": "Zanbato", "founder": "Nico Sand"}
+{"profile": "https://angel.co/bettercompany", "website": "http://www.bettercompany.co", "name": "BetterCompany", "founder": "founder not found"}
+{"profile": "https://angel.co/mindsumo", "website": "http://www.mindsumo.com", "name": "MindSumo", "founder": "Keaton Swett"}
+{"profile": "https://angel.co/hightail", "website": "http://www.hightail.com", "name": "Hightail", "founder": "Ranjith Kumaran"}
+{"profile": "https://angel.co/supplyframe", "website": "http://www.supplyframe.com/", "name": "Supplyframe", "founder": "Steve Flagg"}
+{"profile": "https://angel.co/strava", "website": "http://www.strava.com", "name": "Strava", "founder": "Michael Horvath"}
+{"profile": "https://angel.co/sharethis", "website": "http://sharethis.com", "name": "ShareThis", "founder": "Tim Schigel"}
+{"profile": "https://angel.co/salesforce", "website": "http://www.salesforce.com/", "name": "Salesforce", "founder": "Marc Benioff"}
+{"profile": "https://angel.co/fitbit", "website": "http://www.fitbit.com", "name": "Fitbit", "founder": "founder not found"}
+{"profile": "https://angel.co/kiip", "website": "http://www.kiip.me", "name": "Kiip", "founder": "Brian Wong"}
+{"profile": "https://angel.co/thunder", "website": "http://makethunder.com/", "name": "Thunder", "founder": "Ka Mo Lau"}
+{"profile": "https://angel.co/upserve", "website": "https://upserve.com/", "name": "Upserve", "founder": "Angus Davis"}
+{"profile": "https://angel.co/tapjoy", "website": "http://www.tapjoy.com", "name": "Tapjoy", "founder": "Lee Linden"}
+{"profile": "https://angel.co/minted", "website": "http://www.minted.com", "name": "Minted", "founder": "founder not found"}
+{"profile": "https://angel.co/mylikes", "website": "http://mylikes.com/", "name": "MyLikes", "founder": "Arvind Sundararajan"}
+{"profile": "https://angel.co/poll-everywhere", "website": "http://www.polleverywhere.com/", "name": "Poll Everywhere", "founder": "Brad Gessler"}
+{"profile": "https://angel.co/quantcast", "website": "http://www.quantcast.com/", "name": "Quantcast", "founder": "Paul Sutter"}
+{"profile": "https://angel.co/rethinkdb", "website": "http://www.rethinkdb.com/", "name": "RethinkDB", "founder": "Slava Akhmechet"}
+{"profile": "https://angel.co/scribd", "website": "http://scribd.com", "name": "Scribd", "founder": "Tikhon Bernstam"}
+{"profile": "https://angel.co/sendgrid", "website": "http://www.sendgrid.com", "name": "SendGrid", "founder": "Jose Lopez"}
+{"profile": "https://angel.co/sharethrough", "website": "http://www.sharethrough.com", "name": "Sharethrough", "founder": "Dan Greenberg"}
+{"profile": "https://angel.co/bittorrent", "website": "http://www.bittorrent.com/", "name": "BitTorrent", "founder": "Bram Cohen"}
+{"profile": "https://angel.co/kissmetrics", "website": "http://kissmetrics.com", "name": "Kissmetrics", "founder": "Neil Patel"}
+{"profile": "https://angel.co/metamarkets", "website": "http://www.metamarkets.com/", "name": "Metamarkets", "founder": "Michael E. Driscoll"}
+{"profile": "https://angel.co/soldsie", "website": "http://soldsie.com", "name": "Soldsie", "founder": "Chris Bennett"}
+{"profile": "https://angel.co/futureadvisor", "website": "http://www.futureadvisor.com", "name": "FutureAdvisor", "founder": "founder not found"}
+{"profile": "https://angel.co/doximity", "website": "http://www.doximity.com", "name": "Doximity", "founder": "Jeff Tangney"}
+{"profile": "https://angel.co/zerocater", "website": "https://zerocater.com", "name": "ZeroCater", "founder": "founder not found"}
+{"profile": "https://angel.co/healthtap", "website": "http://www.healthtap.com", "name": "HealthTap", "founder": "Ron Gutman"}
+{"profile": "https://angel.co/ayasdi", "website": "http://www.ayasdi.com", "name": "Ayasdi", "founder": "founder not found"}
+{"profile": "https://angel.co/mural", "website": "http://www.mural.co", "name": "MURAL", "founder": "Pato Jutard"}
+{"profile": "https://angel.co/tinfoil-security", "website": "https://www.tinfoilsecurity.com", "name": "Tinfoil Security", "founder": "Michael Borohovski"}
+{"profile": "https://angel.co/talkable", "website": "http://www.talkable.com", "name": "Talkable", "founder": "Allan Grant"}
+{"profile": "https://angel.co/urbansitter", "website": "https://www.urbansitter.com", "name": "UrbanSitter", "founder": "Andrea Barrett"}
+{"profile": "https://angel.co/classpass", "website": "http://www.classpass.com", "name": "ClassPass", "founder": "Sanjiv Sanghavi"}
+{"profile": "https://angel.co/plivo", "website": "http://www.plivo.com", "name": "Plivo", "founder": "founder not found"}
+{"profile": "https://angel.co/bloc", "website": "https://www.bloc.io", "name": "Bloc", "founder": "Roshan Choxi"}
+{"profile": "https://angel.co/homelight", "website": "http://www.homelight.com", "name": "HomeLight", "founder": "founder not found"}
+{"profile": "https://angel.co/circleci", "website": "https://circleci.com", "name": "CircleCI", "founder": "Paul Biggar"}
+{"profile": "https://angel.co/axcient", "website": "http://www.axcient.com", "name": "Axcient", "founder": "Justin Moore"}
+{"profile": "https://angel.co/rally", "website": "http://www.rally.org", "name": "Rally", "founder": "Tom Serres"}
+{"profile": "https://angel.co/kiwi-crate", "website": "http://www.kiwicrate.com", "name": "Kiwi Crate", "founder": "Sandra Oh Lin"}
+{"profile": "https://angel.co/circleup", "website": "http://circleup.com", "name": "CircleUp", "founder": "Ryan Caldbeck"}
+{"profile": "https://angel.co/sift-science", "website": "http://siftscience.com", "name": "Sift Science", "founder": "Brandon Ballinger"}
+{"profile": "https://angel.co/digit-co", "website": "https://digit.co", "name": "digit.co", "founder": "Ethan Bloch"}
+{"profile": "https://angel.co/wonolo", "website": "http://wonolo.com", "name": "Wonolo", "founder": "founder not found"}
+{"profile": "https://angel.co/appzen", "website": "http://www.appzen.com", "name": "AppZen", "founder": "Kunal Verma"}
+{"profile": "https://angel.co/dil-mil", "website": "http://dilmil.co", "name": "Dil Mil", "founder": "KJ Dhaliwal"}
+{"profile": "https://angel.co/stockpile", "website": "https://www.stockpile.com", "name": "Stockpile", "founder": "Avi"}
+{"profile": "https://angel.co/final", "website": "https://getFinal.com", "name": "Final", "founder": "Aaron Frank"}
+{"profile": "https://angel.co/stratim_systems", "website": "http://stratim.com", "name": "STRATIM", "founder": "Sean Behr"}
+{"profile": "https://angel.co/curbside-1", "website": "http://www.curbside.com", "name": "Curbside", "founder": "Jaron Waldman"}
+{"profile": "https://angel.co/educents", "website": "http://www.Educents.com", "name": "Educents", "founder": "founder not found"}
+{"profile": "https://angel.co/agentdesks", "website": "http://www.agentdesks.com", "name": "Agentdesks", "founder": "Biju Ashokan"}
+{"profile": "https://angel.co/homebase", "website": "http://www.joinhomebase.com", "name": "Homebase", "founder": "John Waldmann"}
+{"profile": "https://angel.co/nodesource", "website": "https://nodesource.com", "name": "NodeSource", "founder": "Joe McCann"}
+{"profile": "https://angel.co/kash", "website": "http://www.withkash.com", "name": "Kash", "founder": "Danny Su"}
+{"profile": "https://angel.co/growbots", "website": "http://www.growbots.com", "name": "Growbots", "founder": "founder not found"}
+{"profile": "https://angel.co/make-school-1", "website": "http://www.makeschool.com", "name": "Make School", "founder": "Ashu Desai"}
+{"profile": "https://angel.co/bstow", "website": "https://www.bstow.com", "name": "Bstow", "founder": "Jason Grad"}
+{"profile": "https://angel.co/jask", "website": "http://jask.io", "name": "Jask", "founder": "Greg C. Martin"}
+{"profile": "https://angel.co/captain401", "website": "https://captain401.com", "name": "Captain401", "founder": "Roger Lee"}
+{"profile": "https://angel.co/philprescriptions", "website": "http://www.phil.us", "name": "Phil", "founder": "founder not found"}
+{"profile": "https://angel.co/opengov", "website": "https://opengov.com/", "name": "OpenGov", "founder": "Mike Rosengarten"}
+{"profile": "https://angel.co/siftery", "website": "https://siftery.com", "name": "Siftery", "founder": "Vamshi Mokshagundam"}
+{"profile": "https://angel.co/boon-gable", "website": "http://www.boonandgable.com", "name": "Boon + Gable", "founder": "Gilman Tolle"}
+{"profile": "https://angel.co/iris-automation", "website": "http://www.irisOnBoard.com", "name": "Iris Automation", "founder": "founder not found"}
+{"profile": "https://angel.co/getrileynow", "website": "https://getrileynow.com/", "name": "Riley (YC W17)", "founder": "Daniel Ahmadizadeh"}
+{"profile": "https://angel.co/niantic", "website": "http://www.nianticlabs.com", "name": "Niantic", "founder": "John Hanke"}
+{"profile": "https://angel.co/sudden-coffee", "website": "http://www.suddencoffee.com", "name": "Sudden Coffee (YC W17)", "founder": "Joshua Zloof"}
+{"profile": "https://angel.co/second-measure", "website": "http://www.secondmeasure.com", "name": "Second Measure", "founder": "founder not found"}
+{"profile": "https://angel.co/wonderschool", "website": "http://www.wonderschool.com", "name": "Wonderschool", "founder": "Arrel Gray"}
+{"profile": "https://angel.co/numerai", "website": "http://numer.ai", "name": "Numerai", "founder": "Richard Craib"}
+{"profile": "https://angel.co/airtable", "website": "https://airtable.com", "name": "Airtable", "founder": "Howie Liu"}
+{"profile": "https://angel.co/elemental-machines", "website": "http://http://elementalmachines.io/", "name": "Elemental Machines", "founder": "Sonny Vu"}
+{"profile": "https://angel.co/cloudapp", "website": "http://getcloudapp.com", "name": "CloudApp", "founder": "Christopher Noble (Dyball)"}
+{"profile": "https://angel.co/arkainc", "website": "http://www.arka.io", "name": "Arka", "founder": "founder not found"}
+{"profile": "https://angel.co/trusted", "website": "http://usetrusted.com", "name": "Trusted", "founder": "Anand Iyer"}
+{"profile": "https://angel.co/onesignal", "website": "https://onesignal.com", "name": "OneSignal", "founder": "George Deglin"}
+{"profile": "https://angel.co/narvar", "website": "http://www.narvar.com", "name": "Narvar", "founder": "founder not found"}
+{"profile": "https://angel.co/picnichealth", "website": "http://PicnicHealth.com", "name": "PicnicHealth", "founder": "Noga Leviner"}
+{"profile": "https://angel.co/moltin", "website": "https://moltin.com", "name": "Moltin", "founder": "founder not found"}
+{"profile": "https://angel.co/blueshift-labs", "website": "http://www.getblueshift.com", "name": "Blueshift", "founder": "Vijay Chittoor"}
+{"profile": "https://angel.co/abra", "website": "http://www.abra.com", "name": "Abra", "founder": "Bill Barhydt"}
+{"profile": "https://angel.co/original-stitch", "website": "http://originalstitch.com", "name": "Original Stitch", "founder": "Jin Koh"}
+{"profile": "https://angel.co/cafe-x", "website": "http://cafexapp.com", "name": "Cafe X", "founder": "Henry Hu"}
+{"profile": "https://angel.co/haven", "website": "http://www.haveninc.com/", "name": "Haven", "founder": "Matt Tillman"}
+{"profile": "https://angel.co/persistiq", "website": "http://www.persistiq.com", "name": "PersistIQ", "founder": "founder not found"}
+{"profile": "https://angel.co/analyticsmd", "website": "http://www.qventus.com", "name": "Qventus", "founder": "founder not found"}
+{"profile": "https://angel.co/bitgo", "website": "https://www.bitgo.com", "name": "BitGo", "founder": "Ben Davenport"}
+{"profile": "https://angel.co/tactile", "website": "http://www.tactile.com/", "name": "Tactile", "founder": "Chuck Ganapathi"}
+{"profile": "https://angel.co/chariot", "website": "http://www.chariot.com", "name": "Chariot", "founder": "Ali Vahabzadeh"}
+{"profile": "https://angel.co/flexport", "website": "http://flexport.com", "name": "Flexport", "founder": "Ryan Petersen"}
+{"profile": "https://angel.co/launchdarkly", "website": "http://launchdarkly.com", "name": "LaunchDarkly", "founder": "Edith Harbaugh"}
+{"profile": "https://angel.co/plushcare", "website": "http://www.plushcare.com", "name": "PlushCare", "founder": "Ryan McQuaid"}
+{"profile": "https://angel.co/checkr", "website": "https://checkr.com/", "name": "Checkr", "founder": "Daniel Yanisse"}
+{"profile": "https://angel.co/lucid-vr", "website": "http://lucidcam.com", "name": "Lucid VR", "founder": "Han Jin"}
+{"profile": "https://angel.co/natero-1", "website": "http://www.natero.com", "name": "Natero", "founder": "Craig Soules"}
+{"profile": "https://angel.co/fixed", "website": "http://www.fixed.com", "name": "Fixed", "founder": "David Hegarty"}
+{"profile": "https://angel.co/neura", "website": "http://www.theneura.com", "name": "Neura", "founder": "Gilad Meiri"}
+{"profile": "https://angel.co/instamotor", "website": "http://www.instamotor.com", "name": "Instamotor", "founder": "Sy Bohy"}
+{"profile": "https://angel.co/boomtown", "website": "http://www.goboomtown.com", "name": "Boomtown", "founder": "Alan Finlay"}
+{"profile": "https://angel.co/betterup", "website": "http://www.betterup.co", "name": "BetterUp", "founder": "Alexi Robichaux"}
+{"profile": "https://angel.co/parsable", "website": "http://www.parsable.com", "name": "Parsable", "founder": "Ryan Junee"}
+{"profile": "https://angel.co/imgur", "website": "http://imgur.com/", "name": "Imgur", "founder": "Alan Schaaf"}
+{"profile": "https://angel.co/eva-automation", "website": "http://www.evaautomation.com", "name": "EVA Automation", "founder": "Dave Liu"}
+{"profile": "https://angel.co/simbi", "website": "http://simbi.com", "name": "Simbi", "founder": "Kjerstin (KJ) Erickson"}
+{"profile": "https://angel.co/assist", "website": "http://assi.st", "name": "Assist", "founder": "Shane Mac"}
+{"profile": "https://angel.co/descartes-labs", "website": "http://www.descarteslabs.com", "name": "Descartes Labs", "founder": "Mark Johnson"}
+{"profile": "https://angel.co/lugg", "website": "http://lugg.com", "name": "Lugg", "founder": "founder not found"}
+{"profile": "https://angel.co/mode-inc", "website": "http://www.tinkermode.com/", "name": "Mode", "founder": "Gaku Ueda"}
+{"profile": "https://angel.co/smarking", "website": "http://www.smarking.com", "name": "Smarking", "founder": "founder not found"}
+{"profile": "https://angel.co/revfluence", "website": "http://www.revfluence.com/?utm_source=angellist", "name": "Revfluence", "founder": "founder not found"}
+{"profile": "https://angel.co/flow-labs", "website": "http://www.flowlabs.com", "name": "Flow Labs", "founder": "Nishant Garg"}
+{"profile": "https://angel.co/nurx", "website": "http://nurx.co", "name": "NURX", "founder": "founder not found"}
+{"profile": "https://angel.co/mightysignal", "website": "http://www.mightysignal.com", "name": "MightySignal", "founder": "Jason Lew"}
+{"profile": "https://angel.co/chain-com", "website": "http://www.chain.com", "name": "Chain", "founder": "Adam Ludwin"}
+{"profile": "https://angel.co/skydio", "website": "http://www.skydio.com", "name": "Skydio", "founder": "Matt Donahoe"}
+{"profile": "https://angel.co/mixmax", "website": "http://mixmax.com", "name": "Mixmax", "founder": "founder not found"}
+{"profile": "https://angel.co/konsushq", "website": "http://www.konsus.com", "name": "Konsus", "founder": "founder not found"}
+{"profile": "https://angel.co/brightwheel", "website": "http://www.mybrightwheel.com", "name": "brightwheel", "founder": "Dave Vasen"}
+{"profile": "https://angel.co/orphidia", "website": "http://www.orphidia.com", "name": "Orphidia", "founder": "founder not found"}
+{"profile": "https://angel.co/super", "website": "https://www.hellosuper.com", "name": "Super", "founder": "Jorey Ramer"}
+{"profile": "https://angel.co/rainforest", "website": "https://www.rainforestqa.com/", "name": "Rainforest", "founder": "founder not found"}
+{"profile": "https://angel.co/symphony-commerce-4", "website": "http://symphonycommerce.com/", "name": "Symphony Commerce", "founder": "Henry Kim"}
+{"profile": "https://angel.co/webflow", "website": "https://webflow.com", "name": "Webflow", "founder": "Vlad Magdalin"}
+{"profile": "https://angel.co/eshares", "website": "http://www.esharesinc.com", "name": "eShares", "founder": "Manu Kumar"}
+{"profile": "https://angel.co/airtime", "website": "https://airtime.com/", "name": "Airtime", "founder": "founder not found"}
+{"profile": "https://angel.co/good-eggs", "website": "http://goodeggs.com", "name": "Good Eggs", "founder": "Rob Spiro"}
+{"profile": "https://angel.co/upcounsel", "website": "http://www.upcounsel.com", "name": "UpCounsel", "founder": "founder not found"}
+{"profile": "https://angel.co/uxpin", "website": "http://www.uxpin.com", "name": "UXPin", "founder": "founder not found"}
+{"profile": "https://angel.co/fondinc", "website": "https://fond.co/", "name": "Fond (formerly AnyPerk)", "founder": "Taro Fukuyama"}
+{"profile": "https://angel.co/her-1", "website": "http://www.weareher.com", "name": "Her", "founder": "Robyn Exton"}
+{"profile": "https://angel.co/womply", "website": "https://womply.com/", "name": "Womply", "founder": "Toby Scammell"}
+{"profile": "https://angel.co/bugcrowd", "website": "https://bugcrowd.com", "name": "Bugcrowd", "founder": "founder not found"}
+{"profile": "https://angel.co/castleglobal", "website": "http://castleglobal.com", "name": "Castle Global", "founder": "Kevin Guo"}
+{"profile": "https://angel.co/kamcord", "website": "http://kamcord.com", "name": "Kamcord", "founder": "Aditya Rathnam"}
+{"profile": "https://angel.co/clever", "website": "https://clever.com", "name": "Clever", "founder": "Rafael Garcia"}
+{"profile": "https://angel.co/mango-health", "website": "http://www.mangohealth.com", "name": "Mango Health", "founder": "Jason Oberfest"}
+{"profile": "https://angel.co/benchling", "website": "https://benchling.com", "name": "Benchling", "founder": "Sajith"}
+{"profile": "https://angel.co/leanplum", "website": "http://www.leanplum.com", "name": "Leanplum", "founder": "founder not found"}
+{"profile": "https://angel.co/spire-global", "website": "http://spire.com", "name": "Spire Global", "founder": "founder not found"}
+{"profile": "https://angel.co/chai", "website": "https://www.chaibio.com", "name": "Chai", "founder": "Josh Perfetto"}
+{"profile": "https://angel.co/acre-designs", "website": "http://www.acredesigns.com", "name": "Acre Designs", "founder": "founder not found"}
+{"profile": "https://angel.co/spruce-health", "website": "https://www.sprucehealth.com/", "name": "Spruce Health", "founder": "Ray Bradford"}
+{"profile": "https://angel.co/umake", "website": "http://www.umake.xyz", "name": "uMake", "founder": "Evi Meyer"}
+{"profile": "https://angel.co/kindly-care", "website": "http://www.kindlycare.com", "name": "Kindly Care", "founder": "Igor Lebovic"}
+{"profile": "https://angel.co/plateiq", "website": "http://plateiq.com/", "name": "Plate IQ", "founder": "Ram Jayaraman"}
+{"profile": "https://angel.co/onboardiq", "website": "http://www.onboardiq.com", "name": "OnboardIQ", "founder": "Jeremy Cai"}
+{"profile": "https://angel.co/point-4", "website": "https://point.com", "name": "Point", "founder": "Alex Rampell"}
+{"profile": "https://angel.co/eden", "website": "http://www.eden.io", "name": "Eden", "founder": "Kyle Wilkinson"}
+{"profile": "https://angel.co/even", "website": "http://even.com", "name": "Even", "founder": "Cem Kent"}
+{"profile": "https://angel.co/payjoy", "website": "http://www.payjoy.com", "name": "PayJoy", "founder": "Mark Heynen"}
+{"profile": "https://angel.co/talentiq", "website": "http://www.talentiq.co/", "name": "TalentIQ", "founder": "founder not found"}
+{"profile": "https://angel.co/edsurge", "website": "http://about.edsurge.com/", "name": "EdSurge", "founder": "Elizabeth Corcoran"}
+{"profile": "https://angel.co/blend-6", "website": "http://blendlabs.com", "name": "Blend", "founder": "Eugene Marinelli"}
+{"profile": "https://angel.co/babylist", "website": "http://babylist.com", "name": "Babylist", "founder": "founder not found"}
